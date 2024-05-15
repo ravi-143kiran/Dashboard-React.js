@@ -9,7 +9,7 @@
  ## Installation
  1. Clone the repository:
 ```
-https://github.com/ravi-143kiran/React.js-Restuarant-Project
+git clone https://github.com/ravi-143kiran/React.js-Restuarant-Project
  ```
  2.  Install dependencies:
 ```
