@@ -8,8 +8,8 @@
  -  **Dynamic Content:** Update menu items, specials, and promotions dynamically without requiring code changes.
  ## Installation
  1. Clone the repository:
- ```
- `git clone https://github.com/yourusername/react-restaurant-website.git`
+```
+https://github.com/ravi-143kiran/React.js-Restuarant-Project
  ```
  2.  Install dependencies:
 ```
@@ -43,6 +43,7 @@ npm start
 Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 ## Contact Us
 For inquiries, reservations, or feedback, please contact us.
+
 ``
 We look forward to serving you and providing you with an exceptional dining experience!
 ``
