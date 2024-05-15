@@ -20,6 +20,18 @@ npm install
 ```
 npm start
 ```
+# **Home Page**
+![Home](https://github.com/ravi-143kiran/React.js-Restuarant-Project/assets/119074585/9834392b-9dec-4dd8-a979-e1f8f74b77cb)
+
+# **Menu Page**
+![Menu](https://github.com/ravi-143kiran/React.js-Restuarant-Project/assets/119074585/b2156cf4-9a24-4f86-85bf-a83a0b9046e7)
+
+# **About Page**
+![About](https://github.com/ravi-143kiran/React.js-Restuarant-Project/assets/119074585/d238db31-e9a2-4e93-8fe6-1ea0c64c73c5)
+
+# **Contact Page**
+![Contact](https://github.com/ravi-143kiran/React.js-Restuarant-Project/assets/119074585/cea0edba-8d2a-46c9-b13d-b524555cbd0a)
+
 4.  Open your web browser and navigate to `http://localhost:3000` to view the website.
 ## Usage
 1.  Explore our menu to discover a wide range of culinary delights.
@@ -31,6 +43,8 @@ npm start
 Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 ## Contact Us
 For inquiries, reservations, or feedback, please contact us.
-``We look forward to serving you and providing you with an exceptional dining experience!``
+``
+We look forward to serving you and providing you with an exceptional dining experience!
+``
 ## License
 This project is licensed under the **[MIT License](https://opensource.org/license/mit/ "Optional Title")**.
